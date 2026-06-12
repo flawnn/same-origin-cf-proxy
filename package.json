@@ -1,6 +1,6 @@
 {
-  "name": "instrumented-reverse-proxy",
-  "version": "0.1.0",
+  "name": "same-origin-cf-proxy",
+  "version": "0.4.20",
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",
