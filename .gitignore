@@ -1,0 +1,16 @@
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Cloudflare / Wrangler
+.wrangler/
+.dev.vars
+
+# Local-only material (kept on disk, never published)
+.claude/
+docs/
+
+# Editor / agent
+.cursor/
+.cursorrules

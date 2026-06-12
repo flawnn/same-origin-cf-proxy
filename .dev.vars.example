@@ -1,0 +1,3 @@
+# Copy to .dev.vars (git-ignored) for local development.
+# PROXY_TARGETS: JSON map of name → { origin, allow }
+PROXY_TARGETS={"example":{"origin":"https://example.com","allow":"(^|\\.)example\\.com$"}}
